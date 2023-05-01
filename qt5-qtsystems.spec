@@ -28,6 +28,9 @@ them to phones, netbooks and non-mobile personal computers. The framework not
 only improves many aspects of a mobile experience, because it improves the use
 of these technologies, but has applicability beyond the mobile device arena.
 
+%prep
+%autosetup -n qtsystems-%{commit}
+
 %build
 %qmake_qt5 PREFIX=/usr
 %make_build
