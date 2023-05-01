@@ -21,6 +21,7 @@ BuildRequires: pkgconfig(libnm)
 BuildRequires: pkgconfig(libpulse)
 BuildRequires: pkgconfig(libudev)
 BuildRequires: qt5-qtbase-devel
+BuildRequires: cmake(Qt5Quick)
 
 %description
 Qt5 Mobility Project delivers a set of new APIs to Qt with features that are well
