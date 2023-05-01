@@ -1,4 +1,4 @@
-%define commait e3332ee38d27a134cef6621fdaf36687af1b6f4a
+%define commit e3332ee38d27a134cef6621fdaf36687af1b6f4a
 %define git 20181230
 
 Name:    qt5-qtsystems
