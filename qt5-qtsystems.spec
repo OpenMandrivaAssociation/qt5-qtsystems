@@ -8,7 +8,7 @@ Release: 1
 
 License: GPL-3.0
 URL:     https://invent.kde.org/qt/qt/qtsystems
-Source0: https://github.com/qtproject/qtsystems/archive/%{commit}.tar.gz
+Source0: https://github.com/qtproject/qtsystems/archive/qtsystems-%{commit}.tar.gz
 
 BuildRequires: qmake5
 BuildRequires: make
